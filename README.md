@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate IT graduate from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
   
 <p align="center">
   <img src="https://gpvc.arturio.dev/adityaraj111">
