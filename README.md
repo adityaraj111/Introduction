@@ -6,7 +6,7 @@
   <img src="https://gpvc.arturio.dev/adityaraj111">
 </p>
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, Angular, etc.**
+- 🌱 I’m currently learning ** Microservices, Apache Kafka, Google Cloud, etc.**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/allen-turing?tab=repositories)
 
